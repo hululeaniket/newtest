@@ -1,0 +1,4 @@
+---
+# vars file for rol-capg-compareprepost
+script_path: "roles/rol-capg-compareprepost/files/compare_csv.py"
+output_path: "roles/rol-capg-compareprepost/files/output.csv"
